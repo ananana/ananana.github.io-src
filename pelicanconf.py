@@ -20,8 +20,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 STATIC_PATHS = ['images', 'themes']
+THEME_STATIC_PATHS = ['pelican-themes']
 
-# THEME = 'blue-penguin'
+# THEME = 'themes/pelican-alchemy/alchemy'
+THEME = 'backdrop'
+PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
