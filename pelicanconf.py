@@ -24,6 +24,12 @@ THEME_STATIC_PATHS = ['pelican-themes']
 
 # THEME = 'themes/pelican-alchemy/alchemy'
 THEME = 'backdrop'
+# specific theme (backdrop) configuration
+PROFILE_IMAGE = '/images/portrait_AnaUban.JPG'
+BACKDROP_IMAGE = '/images/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7.jpg'
+SITE_DESCRIPTION= 'Software developer and researcher; Natural language processing and machine learning PhD student; Python software developer / freelancer; Enthusiastic about AI, education, language, ideas'
+EMAIL = 'ana.uban@gmail.com'
+
 PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Blogroll
@@ -34,7 +40,9 @@ PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/ana-uban/'),
-          ('Another social link', '#'),)
+            ('upwork (freelance)', 'https://www.upwork.com/freelancers/~01f657838909aba2bf'),
+          # ('Another social link', '#'),
+          )
 
 DEFAULT_PAGINATION = 10
 
