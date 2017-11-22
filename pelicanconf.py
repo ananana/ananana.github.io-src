@@ -28,19 +28,17 @@ THEME = 'backdrop'
 PROFILE_IMAGE = '/images/portrait_AnaUban.JPG'
 BACKDROP_IMAGE = '/images/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7.jpg'
 SITE_DESCRIPTION= 'Software developer and researcher; Natural language processing and machine learning PhD student; Python software developer / freelancer; Enthusiastic about AI, education, language, ideas'
-EMAIL = 'ana.uban@gmail.com'
+EMAIL = 'ana.uban+prof@gmail.com'
 
 PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
+LINKS = (('Human Language Technologies Research Center', 'http://nlp.unibuc.ro'),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/ana-uban/'),
-            ('upwork (freelance)', 'https://www.upwork.com/freelancers/~01f657838909aba2bf'),
+SOCIAL = (('Linkedin', 'https://www.linkedin.com/in/ana-uban/'),
+            ('UpWork', 'https://www.upwork.com/freelancers/~01f657838909aba2bf'),
+            ('Academic', 'http://nlp.unibuc.ro/people/anauban.html')
           # ('Another social link', '#'),
           )
 

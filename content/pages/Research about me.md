@@ -2,7 +2,7 @@ Title: Academic profile
 Category: about
 
 I am currently a 3rd year PhD student in natural language processing and computational linguistics at the University of Bucharest, focusing
-on distributional similarity.
+on distributional similarity. I am a member of the [Human Language Technologies Research Center](http://nlp.unibuc.ro/people/anauban.html)
 
 My **research interests** include: semantic similarity, word embeddings applications, text classification, machine learning, authorship attribution and profiling.
 

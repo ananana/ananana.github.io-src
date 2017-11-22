@@ -12,4 +12,4 @@ I work as a remote contractor, and am currently a PhD student in computational l
 
 I am always looking for interesing projects to work on,
 either for [business](/pages/business-profile.html) or for pleasure ([research](/pages/academic-profile.html)), so if you
-would like to collaborate - write me an email! -->
+would like to collaborate - write me an email! ➙
