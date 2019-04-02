@@ -7,10 +7,11 @@ NLP and machine learning related problems. During this time I have worked
 both as part of a team and autonomously, both on novel problems requiring
 sophisticated solutions, and on building the applications around them, from
 designing the solution, to implementing, deploying and maintaining it, and
-training other team members to use it. As an on-site developer, I worked as a research
-intern for Google, where I had the opportunity to further learn about what it is
-to do machine learning to improve a product on which millions of users rely,
+training other team members to use it.
+
+As an on-site developer, I worked as a (research) software engineering intern for Google Zurich, and as machine learning intern for Amazon Development Centre Scotland, where I had the opportunity to further learn about what it is to do machine learning to improve a product on which millions of users rely,
 working with huge amounts of data.
+
 
 ####Skills
 Natural language processing, machine learning, data science - both
@@ -31,7 +32,7 @@ experience with Java, C++, bash.
 
 ####Frameworks and libraries
 Frameworks and libraries in the python ecosystem related to NLP/ML:
-Tensorflow, scikit-learn, NLTK
+Tensorflow, Apache MXNet, PyTorch, scikit-learn, NLTK
 
 Frameworks and libraries related to web development and scraping:
 scrapy, Flask, sqlalchemy
