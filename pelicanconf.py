@@ -22,8 +22,9 @@ AUTHOR_FEED_RSS = None
 STATIC_PATHS = ['images', 'themes']
 THEME_STATIC_PATHS = ['pelican-themes']
 
-# THEME = 'themes/pelican-alchemy/alchemy'
-THEME = 'backdrop'
+#THEME = 'themes/pelican-alchemy/alchemy'
+# THEME = 'backdrop'
+THEME = 'themes/pelican-hyde'
 # specific theme (backdrop) configuration
 PROFILE_IMAGE = '/images/portrait_AnaUban.JPG'
 BACKDROP_IMAGE = '/images/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7.jpg'
@@ -32,6 +33,7 @@ EMAIL = 'ana.uban+prof@gmail.com'
 BLOGKEYWORDS = ('machine learning', 'natural language processing', 'python', 'NLP', 'ML', 'deep learning', 'freelance', 'remote', 'contractor')
 
 PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
+DIRECT_TEMPLATES = ('categories', 'archives')
 
 # Blogroll
 LINKS = (('Human Language Technologies Research Center', 'http://nlp.unibuc.ro'),)

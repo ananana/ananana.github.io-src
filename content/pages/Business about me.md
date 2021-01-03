@@ -1,7 +1,7 @@
 Title: Business profile
 Category: about
 
-I have been working as a freelance software developer for the past 4 years, during
+I have been working as a freelance software developer for the past 8 years, during
 which I have both consulted clients and built software for them to solve their
 NLP and machine learning related problems. During this time I have worked
 both as part of a team and autonomously, both on novel problems requiring
