@@ -23,7 +23,8 @@ STATIC_PATHS = ['images', 'themes']
 THEME_STATIC_PATHS = ['pelican-themes']
 
 # THEME = 'themes/pelican-alchemy/alchemy'
-THEME = 'backdrop'
+#THEME = 'backdrop'
+THEME = 'themes/waterspill'
 # specific theme (backdrop) configuration
 PROFILE_IMAGE = '/images/portrait_AnaUban.JPG'
 BACKDROP_IMAGE = '/images/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7.jpg'
