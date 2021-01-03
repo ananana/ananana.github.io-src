@@ -1,12 +1,21 @@
 Title: Academic profile
 Category: about
 
-I am currently a 4th year PhD student in natural language processing and computational linguistics at the University of Bucharest, focusing
-on distributional similarity. I am a member of the [Human Language Technologies Research Center](http://nlp.unibuc.ro/people/anauban.html) and a fellow of the Data Science Center of the University of Bucharest.
+I have a PhD in natural language processing and computational linguistics from the University of Bucharest, with a thesis entitled *Distributional aspects of natural language. Semantic and stylistic dimensions of text*. I am a member of the [Human Language Technologies Research Center](http://nlp.unibuc.ro/people/anauban.html) and a fellow of the Data Science Center of the University of Bucharest.
 
-My **research interests** include: semantic similarity, word embeddings applications, text classification, machine learning for NLP, mulitlinguality, authorship attribution and profiling.
+My **research interests** include: semantic similarity, word embeddings applications, text classification, mental disorder detection, machine learning for NLP, mulitlinguality, authorship attribution and profiling.
 
 ### Publications:
+
+**PRHLT-UPV  at  eRisk-2020:  Deep Learning Architectures and Strategies for Early Detection of** \\ **Self-harm and Depression Level Prediction**, *Ana Sabina  Uban  and  Paolo  Rosso*, \\ In *CLEF 2020 Labs and Workshops, Notebook Papers. CEUR Workshop Proceedings. CEUR-WS.org*, \\ September 22-25, 2020
+
+**Automatically Building a Multilingual Lexicon of False Friends with no Supervision**, *Ana Sabina Uban* \\ *and Liviu P Dinu.* In *Proceedings of The 12thLanguage Resources and Evaluation Conference (LREC)*, \\ pages 3001–3007, May 2020
+
+**The Myth of Blind Review Revisited: Experiments on ACL vs. EMNLP**, *Cornelia Caragea, Ana Sabina Uban and Liviu P. Dinu.* In *Proceedings of EMNLP-IJCNLP 2019*, \\
+Hong-Kong, China, 3 November 2019
+
+**Studying Laws of Semantic Divergence across Languages using Cognate Sets**, *Ana Sabina Uban, Alina Ciobanu, Liviu P. Dinu.* \\ In *Proceedings of the 1st International Workshop on Computational Approaches to* \\ *Historical Language Change 2019*, Co-located with ACL 2019, Florence, Italy, 2 August 2019
+
 
 **On Transfer Learning for Detecting Abusive Language Online**, *Ana Sabina Uban, Liviu P. Dinu*.
 In *Springer LNCS*, to be presented at the 15th International Work-Conference on Artificial Neural Networks, Gran Canaria, Spain, 12-14 June, 2019
