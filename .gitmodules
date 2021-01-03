@@ -4,3 +4,9 @@
 [submodule "content/themes/pelican-alchemy"]
 	path = content/themes/pelican-alchemy
 	url = https://github.com/nairobilug/pelican-alchemy
+[submodule "themes/minimal-mistakes"]
+	path = themes/minimal-mistakes
+	url = https://github.com/mmistakes/minimal-mistakes.git
+[submodule "themes/pelican-hyde"]
+	path = themes/pelican-hyde
+	url = https://github.com/jvanz/pelican-hyde.git
