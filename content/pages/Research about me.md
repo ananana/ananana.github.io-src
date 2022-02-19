@@ -1,7 +1,7 @@
 Title: Academic profile
 Category: about
 
-I have a PhD in natural language processing and computational linguistics from the University of Bucharest, with a thesis entitled *Distributional aspects of natural language. Semantic and stylistic dimensions of text*. I am a member of the [Human Language Technologies Research Center](http://nlp.unibuc.ro/people/anauban.html) and a fellow of the Data Science Center of the University of Bucharest.
+I have a PhD in natural language processing and computational linguistics from the University of Bucharest, with a thesis entitled *Distributional aspects of natural language. Semantic and stylistic dimensions of text* (2020). I am currenlty an Assistant Professor at the Faculty of Mathematics and Computer Science of the University of Bucharest, and a member of the [Human Language Technologies Research Center](http://nlp.unibuc.ro/people/anauban.html) and a fellow of the Data Science Center of the University of Bucharest.
 
 My **research interests** include: semantic similarity, word embeddings applications, text classification, mental disorder detection, machine learning for NLP, mulitlinguality, authorship attribution and profiling.
 
@@ -44,7 +44,7 @@ In Proceeedings Recent Advances in Natural Language Processing, p 147–152, His
 
 ### Education
 
-2015 - **Doctor of Philosophy (candidate) in Distributional Semantics**,
+2020 - **Doctor of Philosophy in Distributional Semantics**,
 University of Bucharest, Faculty of Mathematics and Computer Science, Bucharest, Romania
 
 2011 - 2013 **Master of Science in Artificial Intelligence**,
